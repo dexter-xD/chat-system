@@ -1,3 +1,9 @@
-/build/
-/bin/
-/db/
+client
+server
+*.o
+*.out
+*.exe
+*.so
+*.dylib
+*.dll
+*.lib
